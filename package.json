@@ -35,9 +35,6 @@
     "editorconfig": "^0.13.2",
     "glob-expand": "^0.2.1"
   },
-  "peerDependencies": {
-    "typescript": ">=2.1.0 || >=2.2.0-dev"
-  },
   "devDependencies": {
     "@types/glob-expand": "^0.0.30",
     "@types/mocha": "^2.2.33",
